@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info
+
+# Build / dist
+dist/
+build/
+*.tar.gz
+
+# Runtime state
+gui_state.json
+gui_presets.json
+llama-shell-config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
