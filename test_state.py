@@ -1,1 +1,2 @@
-3310 chars - test_state.py
+# Llama UI Shell — 持久化 e2e 测试
+# 5 场景全绿：默认值、跨模型隔离、恢复、覆盖、预设
