@@ -1,5 +1,0 @@
-{
-  "models_dir": "/Volumes/CT-nvme/llama-bin-win-vulkan-x64/models",
-  "vanilla_bin": "/Users/dx/llama-shell/bin/llama-b12212/llama-server",
-  "tosh_bin": "/Applications/ToshLLM.app/Contents/Resources/bin/llama-server"
-}
